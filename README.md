@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mizdere
 - 👀 I’m interested in VR
-- 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on cool projects
+- 🌱 I’m currently learning c++ and assembly
+- 💞️ I’m looking for work
 - 📫 How to reach me mizorexp@gmail.com
 
 <!---
